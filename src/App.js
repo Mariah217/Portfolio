@@ -7,7 +7,6 @@ export default function App() {
   return (
     <>
     <Nav />
-    <div className='bg-white'></div>
     </>
   );
 }
