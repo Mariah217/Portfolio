@@ -8,3 +8,11 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+
+.me {
+    vertical-align: middle;
+    border-radius: 50%;
+    height: 350px;
+    width: 350px;
+    transform: rotate(20deg);
+}
