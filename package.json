@@ -17,6 +17,7 @@
     "react-scripts": "5.0.1",
     "reactstrap": "^9.1.5",
     "sass": "^1.56.0",
+    "tw-elements": "^1.0.0-alpha12",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

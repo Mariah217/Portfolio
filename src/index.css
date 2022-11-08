@@ -2,11 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
 body {
     background-image: url(../public/img/image.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+.name {
+    margin-top: 3%;
+    margin-right: 5%;
+    text-shadow: 5px 5px 8px grey;
+    font-weight: 500;
+    font-size: 60px;
+    font-family: 'Sacramento', cursive;
+    text-align: end;
 }
 
 .me {
@@ -16,3 +28,4 @@ body {
     width: 350px;
     transform: rotate(20deg);
 }
+

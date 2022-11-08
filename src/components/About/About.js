@@ -8,6 +8,7 @@ import {
 export default function About() {
     return (
         <>
+        <h1 className="name">Mariah Johnston</h1>
             <img
                 src="./img/me.png"
                 alt="img-blur-shadow"
