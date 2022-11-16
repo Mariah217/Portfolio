@@ -40,7 +40,15 @@ body {
     margin-left: 75%;
 }
 
-.w-72, .w-96, .button{
+.portfolio {
+    margin-top: 3%;
+    font-family: 'Sacramento', cursive;
+    text-shadow: 5px 5px 8px grey;
+    font-size: 60px;
+    margin-left: 75%;
+}
+
+#input, #message, .button{
     margin-left: 75%;
     margin-bottom: 15px;
 }
@@ -54,4 +62,10 @@ body {
     font-family: 'Sacramento', cursive;
     font-size: 32px;
     font: black;
+}
+
+#cards{
+    margin-left: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
