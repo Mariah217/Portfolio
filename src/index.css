@@ -11,6 +11,7 @@ body {
     background-attachment: fixed;
 }
 
+
 .name {
     margin-top: 3%;
     margin-right: 5%;
@@ -22,10 +23,21 @@ body {
 }
 
 .me {
-    vertical-align: middle;
+    margin-top: 8%;
+    margin-left: 40%;
     border-radius: 50%;
     height: 350px;
     width: 350px;
     transform: rotate(20deg);
 }
 
+#about-me {
+    margin-right: 5%;
+    margin-left: 70%;
+}
+
+#aboutme-title{
+    font-family: 'Sacramento', cursive;
+    font-size: 32px;
+    font: black;
+}

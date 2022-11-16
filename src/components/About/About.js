@@ -15,9 +15,9 @@ export default function About() {
                 className="me">
             </img>
 
-            <Card className="w-96">
+            <Card className="w-120" id="about-me">
                 <CardBody className="text-center">
-                    <Typography variant="h5" className="mb-2">
+                    <Typography variant="h5" className="mb-2" id="aboutme-title">
                         About Me:
                     </Typography>
                     <Typography>
