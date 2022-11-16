@@ -32,7 +32,7 @@ export default function Portfolio() {
                         </Typography>
                     </CardBody>
                     <CardFooter divider className="flex items-center justify-between py-3">
-                        <Button size="sm" >Select</Button>
+                    <Button size="sm" color="green" >Select</Button>
                         <Typography variant="small" color="gray" className="flex gap-1">
                             <FaGithub />
                         </Typography>
@@ -56,7 +56,7 @@ export default function Portfolio() {
                         </Typography>
                     </CardBody>
                     <CardFooter divider className="flex items-center justify-between py-3">
-                        <Button size="sm" >Select</Button>
+                    <Button size="sm" color="green" >Select</Button>
                         <Typography variant="small" color="gray" className="flex gap-1">
                             <FaGithub />
                         </Typography>
@@ -80,7 +80,7 @@ export default function Portfolio() {
                         </Typography>
                     </CardBody>
                     <CardFooter divider className="flex items-center justify-between py-3">
-                        <Button size="sm" >Select</Button>
+                    <Button size="sm" color="green" >Select</Button>
                         <Typography variant="small" color="gray" className="flex gap-1">
                             <FaGithub />
                         </Typography>
@@ -104,7 +104,7 @@ export default function Portfolio() {
                         </Typography>
                     </CardBody>
                     <CardFooter divider className="flex items-center justify-between py-3">
-                        <Button size="sm" >Select</Button>
+                    <Button size="sm" color="green" >Select</Button>
                         <Typography variant="small" color="gray" className="flex gap-1">
                             <FaGithub />
                         </Typography>
@@ -128,7 +128,7 @@ export default function Portfolio() {
                         </Typography>
                     </CardBody>
                     <CardFooter divider className="flex items-center justify-between py-3">
-                        <Button size="sm" >Select</Button>
+                    <Button size="sm" color="green" >Select</Button>
                         <Typography variant="small" color="gray" className="flex gap-1">
                             <FaGithub />
                         </Typography>
@@ -152,7 +152,7 @@ export default function Portfolio() {
                         </Typography>
                     </CardBody>
                     <CardFooter divider className="flex items-center justify-between py-3">
-                        <Button size="sm" >Select</Button>
+                        <Button size="sm" color="green" >Select</Button>
                         <Typography variant="small" color="gray" className="flex gap-1">
                             <FaGithub />
                         </Typography>
