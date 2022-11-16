@@ -5,7 +5,8 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 export default function Footer() {
     return (
         <h1>
-            <FaGithub /> <FaLinkedin />
+            <FaGithub /> 
+            <FaLinkedin />
         </h1>
 
     )
