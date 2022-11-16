@@ -31,6 +31,20 @@ body {
     transform: rotate(20deg);
 }
 
+.send-message {
+    font-family: 'Sacramento', cursive;
+    text-shadow: 5px 5px 8px grey;
+    font-size: 60px;
+    margin-top: 3%;
+    margin-bottom: 50px;
+    margin-left: 75%;
+}
+
+.w-72, .w-96, .button{
+    margin-left: 75%;
+    margin-bottom: 15px;
+}
+
 #about-me {
     margin-right: 5%;
     margin-left: 70%;

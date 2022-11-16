@@ -7,6 +7,6 @@ module.exports = withMT({
     extend: {},
   },
   plugins: [
-    require('tw-elements/dist/plugin')
+    require('tw-elements/dist/plugin'),
   ]
 });
